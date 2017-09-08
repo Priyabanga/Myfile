@@ -1,5 +1,5 @@
 #include<stdio.h>
 void main()
 {
-printf("hiiiiiiii");
+printf("open source");
 }
